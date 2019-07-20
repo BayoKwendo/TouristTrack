@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "602314594203",
+    "firebase_url": "https://wyne-24048.firebaseio.com",
+    "project_id": "wyne-24048",
+    "storage_bucket": "wyne-24048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602314594203:android:b29ad64fe90287e8",
+        "android_client_info": {
+          "package_name": "com.informatics.b254safaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602314594203-hn7v10h9cid14bipo15sfv90lb705tvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBi0b4Pph8iY_RJxRPBpoKasbgUr7Y7SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602314594203-hn7v10h9cid14bipo15sfv90lb705tvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602314594203:android:b4b84b6edda7f1b9",
+        "android_client_info": {
+          "package_name": "com.m.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602314594203-hn7v10h9cid14bipo15sfv90lb705tvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBi0b4Pph8iY_RJxRPBpoKasbgUr7Y7SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602314594203-hn7v10h9cid14bipo15sfv90lb705tvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602314594203:android:7ddac780d195e643",
+        "android_client_info": {
+          "package_name": "com.m.myapplication.searchcitydialog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602314594203-hn7v10h9cid14bipo15sfv90lb705tvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBi0b4Pph8iY_RJxRPBpoKasbgUr7Y7SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602314594203-hn7v10h9cid14bipo15sfv90lb705tvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

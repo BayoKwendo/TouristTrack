@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">254SafarisB</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_profile">Profile</string>
+    <string name="google_maps_web_key">AIzaSyDJnDn_O0nybXXsBypZ_5wTu1lVXOgHIjU</string>
+    <string name="gps_network_not_enabled">GPS or network services are disabled. Do you wish to enable them? </string>
+    <string name="open_location_settings">Enable GPS</string>
+    <string name="cancel">Cancel</string>
+    <string name="admob_app_id">Cancel</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search_title">Search for Hospitals</string>
+    <string name="message_no_result">Sorry, we could not find any results matching your query. \nPlease try another query.</string>
+    <string name="add_alarm">Add alarm</string>
+    <string name="enter_the_code">Enter the code</string>
+
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_profile">Profile</string>
+    <string name="search_lamu">Lamu</string>
+    <string name="search_mombasa">Mombasa</string>
+    <string name="search_malindi">Malindi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="array_option_type">
+        <item>Health Center</item>
+        <item>Doctor</item>
+        <item>Oncologist</item>
+
+    </string-array>
+
+    <string-array name="array_option_rank">
+        <item>Prominence</item>
+        <item>Distance</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

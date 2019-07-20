@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mainColor">#2cd36f</color>
+     <color name="darkerMain">#2ca66f</color>
+    <color name="backgroundDefault">#ffff</color>
+
+    <color name="color_url">#2D49C9</color>
+    <color name="searchDialogResultColor">#123456</color>
+
+
+</resources>
